@@ -7,6 +7,7 @@ On this project, I took on a role as a newly hired Data Analyst by a global IT a
 As a Data Analyst, i will be assisting with this initiative and have been tasked with collecting data from various sources and identifying trends for this year's report on emerging skills. 
 
 My first task is to collect the top programming skills that are most in demand from various sources including:
+
 •	Job postings
 
 •	Training portals
