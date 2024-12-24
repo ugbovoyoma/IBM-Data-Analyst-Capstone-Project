@@ -8,12 +8,19 @@ As a Data Analyst, i will be assisting with this initiative and have been tasked
 
 My first task is to collect the top programming skills that are most in demand from various sources including:
 •	Job postings
+
 •	Training portals
+
 •	Surveys
+
 Once i have collected enough data, i will begin analyzing the data and identify insights and trends that may include the following:
+
 •	What are the top programming languages in demand?
+
 •	What are the top database skills in demand?
+
 •	What are the popular IDEs?
+
 i will begin by scraping internet web sites and accessing APIs to collect data in various formats like .csv files, excel sheets, and databases. 
 
 Once this is completed, i will make that data ready for analysis using data wrangling techniques. When the data is ready i will then want to apply statistical techniques to analyze the data. Then bring all of my information together by using Google Looker Studio to create my dashboard. And finally, show off my storytelling skills by sharing my findings in a presentation.
