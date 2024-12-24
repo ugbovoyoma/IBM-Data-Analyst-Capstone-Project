@@ -1,3 +1,5 @@
+IBM-Data-Analyst-Capstone-Project
+
 Hey there! I’m so glad to have you here. This is a very important project to me because it is my first after completing every necessary course to be a data analyst. This project would showcase every skill I have learnt within the last few months.
 On this project, I took on a role as a newly hired Data Analyst by a global IT and business consulting services firm that is known for their expertise in IT solutions and their team of highly experienced IT consultants. In order to keep pace with changing technologies and remain competitive, my organization regularly analyzes data to help identify future skill requirements. 
 As a Data Analyst, i will be assisting with this initiative and have been tasked with collecting data from various sources and identifying trends for this year's report on emerging skills. 
