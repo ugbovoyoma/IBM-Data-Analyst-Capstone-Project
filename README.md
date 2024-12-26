@@ -24,7 +24,7 @@ Once i have collected enough data, i will begin analyzing the data and identify 
 
 •	What are the popular IDEs?
 
-i will begin by scraping internet web sites and accessing APIs to collect data in various formats like .csv files, excel sheets, and databases. 
+I will begin by scraping internet web sites and accessing APIs to collect data in various formats like .csv files, excel sheets, and databases. 
 
 Once this is completed, i will make that data ready for analysis using data wrangling techniques. When the data is ready i will then want to apply statistical techniques to analyze the data. Then bring all of my information together by using Google Looker Studio to create my dashboard. And finally, show off my storytelling skills by sharing my findings in a presentation.
 
